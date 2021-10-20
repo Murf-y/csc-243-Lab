@@ -31,8 +31,8 @@ def angle(side_a,side_b,side_c):
     """
     return math.degrees(math.acos((side_a ** 2 - side_b ** 2 - side_c ** 2) / (- 2 * side_b * side_c)))
 
-x1, y1, x2, y2, x3, y3 = eval(input("Enter three points: "))
-
+points = input("Enter three points: ").split(",")
+x1,y1,x2,y2,x3,y3 = list(map(eval,points))
 a = distance(x3, y3, x2, y2)
 b = distance(x3, y3 ,x1, y1)
 c = distance(x2, y2, x1, y1)
@@ -41,7 +41,7 @@ A = angle(a,b,c)
 B = angle(b,a,c)
 C = angle(c,b,a)
 
-print("The three angles are: ", round(A*100)/100, round(B*100)/100, round(C*100)/100)
+print("The three angles are: ", round(A,2), round(B,2), round(C,2))
 
 """
 output for: 1, 1, 6.5,1,6.5,2.5
