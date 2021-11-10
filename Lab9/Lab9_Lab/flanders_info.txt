@@ -1,0 +1,26 @@
+
+In Flanders Fields
+
+In Flanders fields the poppies blow
+Between the crosses, row on row,
+That mark our place; and in the sky
+The larks, still bravely singing, fly
+Scarce heard amid the guns below.
+
+We are the Dead. Short days ago
+We lived, felt dawn, saw sunset glow,
+Loved and were loved, and now we lie,
+In Flanders fields.
+
+
+Take up our quarrel with the foe:
+To you from failing hands we throw
+The torch; be yours to hold it high.
+If ye break faith with us who die
+We shall not sleep, though poppies grow
+
+In Flanders fields.
+Number of lines: 23
+Number of words: 85
+Number of characters: 530
+Number of occurrences of every alphabetic character in the file: {'I': 5, 'n': 23, 'F': 5, 'l': 27, 'a': 28, 'd': 22, 'e': 51, 'r': 25, 's': 27, 'i': 21, 'f': 10, 't': 21, 'h': 24, 'p': 9, 'o': 29, 'b': 5, 'w': 17, 'B': 1, 'c': 5, 'T': 5, 'm': 3, 'k': 5, 'u': 10, 'y': 7, 'v': 4, 'g': 9, 'S': 2, 'W': 3, 'D': 1, 'L': 1, 'q': 1}
